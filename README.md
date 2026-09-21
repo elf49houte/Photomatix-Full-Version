@@ -240,4 +240,4 @@ This repository serves as the official landing page for Photomatix. The software
 **Get the most recent version of Photomatix today!**
 
 ---
-**Last updated:** 2026-09-21 04:32:45 UTC
+**Last updated:** 2026-09-21 10:28:24 UTC
